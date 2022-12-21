@@ -1,5 +1,6 @@
 {
-  "name": "https://Kholoud-fares.github.io/Portofolio-React/",
+  "homepage": "https://Kholoud-fares.github.io/Portofolio-React/",
+  "name": "tempelate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
